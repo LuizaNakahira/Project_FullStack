@@ -1,0 +1,13 @@
+Link do repositório GitHub:
+https://github.com/LuizaNakahira/Fullstack-Project.git
+
+Nome dos membros do Grupo:
+Luiza Xavier Nakahira - 2465361
+
+Hook/Funcionalidades do React.js implementadas:
+useMemo - Memorizar os dados dos países da função App.js;
+useRef - Manter o foco no campo de busca;
+useState - Gerenciar o estado dos dados.
+
+API JSON utilizada:
+REST COUNTRIES API - https://restcountries.com
